@@ -72,10 +72,10 @@ This script requires a Google Gemini API key to function.
 
 ## Usage ▶️
 
-1.  **Place your PDF:** Ensure the PDF file you wish to process (e.g., `index_investor relations.pdf`) is in the same directory as your script, or update the `pdf_path` variable in the script to its correct location.
+1.  **Place your PDF:** Ensure the PDF file you wish to process (e.g., `index.pdf`) is in the same directory as your script, or update the `pdf_path` variable in the script to its correct location.
 
     ```python
-    pdf_path = "index_investor relations.pdf" # Change this to your PDF file name
+    pdf_path = "index.pdf" # Change this to your PDF file name
     ```
 
 2.  **Run the script:**
